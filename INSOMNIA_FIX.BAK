@@ -208,7 +208,7 @@ gejala(gejala2),
 gejala(gejala4),
 gejala(gejala9),
 gejala(gejala10),
-output(" Anda Memiliki Penyakit Sindrom Apnea Tidur Sentral. \n Gejala : Sulit untuk tidur, Sering terbangun saat tidur, Cemas ketika hendak tidur, Memiliki riwayat penyakit jantung, Mendengkur dengan suara halus pada saat tidur. "),
+output(" Anda Memiliki Penyakit Sindrom Apnea Tidur Sentral. \n Gejala : Sulit untuk tidur, Sering terbangun saat tidur, Cemas ketika hendak tidur, Memiliki riwayat penyakit jantung, Mendengkur dengan suara halus pada saat tidur. ").
 output1(" \n Konsultasi ke dokter, \n Olahraga, \n Konsumsi Makanan yang sehat,\n matikan lampu kamar, \n jangan mengkonsumsi kafein dan alkohol, \n tenangkan pikiran sebelum tidur.").
 
 /* PENYAKIT SINDROM HIPOVENTILASI ALVEOLAR */
